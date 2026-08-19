@@ -1,3 +1,7 @@
+#EXTM3U
+
+# --- CANALES TV ---
+
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220759941.png" group-title="Chileiptv" , Chilevisión
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
